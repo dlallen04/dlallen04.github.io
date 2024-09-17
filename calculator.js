@@ -78,3 +78,6 @@ if (successfulComputations > 0)
 else
 	document.write("<tr><td>None</td><td>None</td><td>None</td><td>None</td></tr>");
 document.write("</table>");
+
+// Link Back To Home Page
+document.write("<a href=\"index.html\"><h1>Home</h1></a>")
